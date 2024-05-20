@@ -1,0 +1,1101 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Electronica Care\\Downloads\\Telegram Desktop\\OnlineMobileStore_17_May\\OnlineMobileStore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/OnlineMobileStore/True/SqlTable/dbo.Mobile.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E4E0FE2-726D-45D1-8A2B-E6C719C65EF2}|OnlineMobileStore\\OnlineMobileStore.csproj|c:\\users\\electronica care\\downloads\\telegram desktop\\onlinemobilestore_17_may\\onlinemobilestore\\onlinemobilestore\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8E4E0FE2-726D-45D1-8A2B-E6C719C65EF2}|OnlineMobileStore\\OnlineMobileStore.csproj|solutionrelative:onlinemobilestore\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E4E0FE2-726D-45D1-8A2B-E6C719C65EF2}|OnlineMobileStore\\OnlineMobileStore.csproj|c:\\users\\electronica care\\downloads\\telegram desktop\\onlinemobilestore_17_may\\onlinemobilestore\\onlinemobilestore\\views\\cart\\confirmorder.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8E4E0FE2-726D-45D1-8A2B-E6C719C65EF2}|OnlineMobileStore\\OnlineMobileStore.csproj|solutionrelative:onlinemobilestore\\views\\cart\\confirmorder.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E4E0FE2-726D-45D1-8A2B-E6C719C65EF2}|OnlineMobileStore\\OnlineMobileStore.csproj|c:\\users\\electronica care\\downloads\\telegram desktop\\onlinemobilestore_17_may\\onlinemobilestore\\onlinemobilestore\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E4E0FE2-726D-45D1-8A2B-E6C719C65EF2}|OnlineMobileStore\\OnlineMobileStore.csproj|solutionrelative:onlinemobilestore\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E4E0FE2-726D-45D1-8A2B-E6C719C65EF2}|OnlineMobileStore\\OnlineMobileStore.csproj|c:\\users\\electronica care\\downloads\\telegram desktop\\onlinemobilestore_17_may\\onlinemobilestore\\onlinemobilestore\\controllers\\companycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E4E0FE2-726D-45D1-8A2B-E6C719C65EF2}|OnlineMobileStore\\OnlineMobileStore.csproj|solutionrelative:onlinemobilestore\\controllers\\companycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E4E0FE2-726D-45D1-8A2B-E6C719C65EF2}|OnlineMobileStore\\OnlineMobileStore.csproj|c:\\users\\electronica care\\downloads\\telegram desktop\\onlinemobilestore_17_may\\onlinemobilestore\\onlinemobilestore\\views\\home\\mobile_search.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8E4E0FE2-726D-45D1-8A2B-E6C719C65EF2}|OnlineMobileStore\\OnlineMobileStore.csproj|solutionrelative:onlinemobilestore\\views\\home\\mobile_search.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E4E0FE2-726D-45D1-8A2B-E6C719C65EF2}|OnlineMobileStore\\OnlineMobileStore.csproj|c:\\users\\electronica care\\downloads\\telegram desktop\\onlinemobilestore_17_may\\onlinemobilestore\\onlinemobilestore\\views\\mobile\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8E4E0FE2-726D-45D1-8A2B-E6C719C65EF2}|OnlineMobileStore\\OnlineMobileStore.csproj|solutionrelative:onlinemobilestore\\views\\mobile\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E4E0FE2-726D-45D1-8A2B-E6C719C65EF2}|OnlineMobileStore\\OnlineMobileStore.csproj|c:\\users\\electronica care\\downloads\\telegram desktop\\onlinemobilestore_17_may\\onlinemobilestore\\onlinemobilestore\\views\\home\\mobile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8E4E0FE2-726D-45D1-8A2B-E6C719C65EF2}|OnlineMobileStore\\OnlineMobileStore.csproj|solutionrelative:onlinemobilestore\\views\\home\\mobile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E4E0FE2-726D-45D1-8A2B-E6C719C65EF2}|OnlineMobileStore\\OnlineMobileStore.csproj|c:\\users\\electronica care\\downloads\\telegram desktop\\onlinemobilestore_17_may\\onlinemobilestore\\onlinemobilestore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E4E0FE2-726D-45D1-8A2B-E6C719C65EF2}|OnlineMobileStore\\OnlineMobileStore.csproj|solutionrelative:onlinemobilestore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E4E0FE2-726D-45D1-8A2B-E6C719C65EF2}|OnlineMobileStore\\OnlineMobileStore.csproj|c:\\users\\electronica care\\downloads\\telegram desktop\\onlinemobilestore_17_may\\onlinemobilestore\\onlinemobilestore\\models\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E4E0FE2-726D-45D1-8A2B-E6C719C65EF2}|OnlineMobileStore\\OnlineMobileStore.csproj|solutionrelative:onlinemobilestore\\models\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E4E0FE2-726D-45D1-8A2B-E6C719C65EF2}|OnlineMobileStore\\OnlineMobileStore.csproj|c:\\users\\electronica care\\downloads\\telegram desktop\\onlinemobilestore_17_may\\onlinemobilestore\\onlinemobilestore\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E4E0FE2-726D-45D1-8A2B-E6C719C65EF2}|OnlineMobileStore\\OnlineMobileStore.csproj|solutionrelative:onlinemobilestore\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E4E0FE2-726D-45D1-8A2B-E6C719C65EF2}|OnlineMobileStore\\OnlineMobileStore.csproj|c:\\users\\electronica care\\downloads\\telegram desktop\\onlinemobilestore_17_may\\onlinemobilestore\\onlinemobilestore\\models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E4E0FE2-726D-45D1-8A2B-E6C719C65EF2}|OnlineMobileStore\\OnlineMobileStore.csproj|solutionrelative:onlinemobilestore\\models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E4E0FE2-726D-45D1-8A2B-E6C719C65EF2}|OnlineMobileStore\\OnlineMobileStore.csproj|c:\\users\\electronica care\\downloads\\telegram desktop\\onlinemobilestore_17_may\\onlinemobilestore\\onlinemobilestore\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E4E0FE2-726D-45D1-8A2B-E6C719C65EF2}|OnlineMobileStore\\OnlineMobileStore.csproj|solutionrelative:onlinemobilestore\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E4E0FE2-726D-45D1-8A2B-E6C719C65EF2}|OnlineMobileStore\\OnlineMobileStore.csproj|c:\\users\\electronica care\\downloads\\telegram desktop\\onlinemobilestore_17_may\\onlinemobilestore\\onlinemobilestore\\views\\authentication\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8E4E0FE2-726D-45D1-8A2B-E6C719C65EF2}|OnlineMobileStore\\OnlineMobileStore.csproj|solutionrelative:onlinemobilestore\\views\\authentication\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E4E0FE2-726D-45D1-8A2B-E6C719C65EF2}|OnlineMobileStore\\OnlineMobileStore.csproj|c:\\users\\electronica care\\downloads\\telegram desktop\\onlinemobilestore_17_may\\onlinemobilestore\\onlinemobilestore\\views\\cart\\payment.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8E4E0FE2-726D-45D1-8A2B-E6C719C65EF2}|OnlineMobileStore\\OnlineMobileStore.csproj|solutionrelative:onlinemobilestore\\views\\cart\\payment.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E4E0FE2-726D-45D1-8A2B-E6C719C65EF2}|OnlineMobileStore\\OnlineMobileStore.csproj|c:\\users\\electronica care\\downloads\\telegram desktop\\onlinemobilestore_17_may\\onlinemobilestore\\onlinemobilestore\\viewmodels\\createmobileviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E4E0FE2-726D-45D1-8A2B-E6C719C65EF2}|OnlineMobileStore\\OnlineMobileStore.csproj|solutionrelative:onlinemobilestore\\viewmodels\\createmobileviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E4E0FE2-726D-45D1-8A2B-E6C719C65EF2}|OnlineMobileStore\\OnlineMobileStore.csproj|c:\\users\\electronica care\\downloads\\telegram desktop\\onlinemobilestore_17_may\\onlinemobilestore\\onlinemobilestore\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E4E0FE2-726D-45D1-8A2B-E6C719C65EF2}|OnlineMobileStore\\OnlineMobileStore.csproj|solutionrelative:onlinemobilestore\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E4E0FE2-726D-45D1-8A2B-E6C719C65EF2}|OnlineMobileStore\\OnlineMobileStore.csproj|c:\\users\\electronica care\\downloads\\telegram desktop\\onlinemobilestore_17_may\\onlinemobilestore\\onlinemobilestore\\settings\\filesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E4E0FE2-726D-45D1-8A2B-E6C719C65EF2}|OnlineMobileStore\\OnlineMobileStore.csproj|solutionrelative:onlinemobilestore\\settings\\filesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E4E0FE2-726D-45D1-8A2B-E6C719C65EF2}|OnlineMobileStore\\OnlineMobileStore.csproj|c:\\users\\electronica care\\downloads\\telegram desktop\\onlinemobilestore_17_may\\onlinemobilestore\\onlinemobilestore\\attributes\\allowedextensionsattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E4E0FE2-726D-45D1-8A2B-E6C719C65EF2}|OnlineMobileStore\\OnlineMobileStore.csproj|solutionrelative:onlinemobilestore\\attributes\\allowedextensionsattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E4E0FE2-726D-45D1-8A2B-E6C719C65EF2}|OnlineMobileStore\\OnlineMobileStore.csproj|c:\\users\\electronica care\\downloads\\telegram desktop\\onlinemobilestore_17_may\\onlinemobilestore\\onlinemobilestore\\views\\company\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8E4E0FE2-726D-45D1-8A2B-E6C719C65EF2}|OnlineMobileStore\\OnlineMobileStore.csproj|solutionrelative:onlinemobilestore\\views\\company\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E4E0FE2-726D-45D1-8A2B-E6C719C65EF2}|OnlineMobileStore\\OnlineMobileStore.csproj|c:\\users\\electronica care\\downloads\\telegram desktop\\onlinemobilestore_17_may\\onlinemobilestore\\onlinemobilestore\\models\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E4E0FE2-726D-45D1-8A2B-E6C719C65EF2}|OnlineMobileStore\\OnlineMobileStore.csproj|solutionrelative:onlinemobilestore\\models\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E4E0FE2-726D-45D1-8A2B-E6C719C65EF2}|OnlineMobileStore\\OnlineMobileStore.csproj|c:\\users\\electronica care\\downloads\\telegram desktop\\onlinemobilestore_17_may\\onlinemobilestore\\onlinemobilestore\\models\\mobile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E4E0FE2-726D-45D1-8A2B-E6C719C65EF2}|OnlineMobileStore\\OnlineMobileStore.csproj|solutionrelative:onlinemobilestore\\models\\mobile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/OnlineMobileStore/True/SqlTable/dbo.User.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E4E0FE2-726D-45D1-8A2B-E6C719C65EF2}|OnlineMobileStore\\OnlineMobileStore.csproj|c:\\users\\electronica care\\downloads\\telegram desktop\\onlinemobilestore_17_may\\onlinemobilestore\\onlinemobilestore\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8E4E0FE2-726D-45D1-8A2B-E6C719C65EF2}|OnlineMobileStore\\OnlineMobileStore.csproj|solutionrelative:onlinemobilestore\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E4E0FE2-726D-45D1-8A2B-E6C719C65EF2}|OnlineMobileStore\\OnlineMobileStore.csproj|c:\\users\\electronica care\\downloads\\telegram desktop\\onlinemobilestore_17_may\\onlinemobilestore\\onlinemobilestore\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E4E0FE2-726D-45D1-8A2B-E6C719C65EF2}|OnlineMobileStore\\OnlineMobileStore.csproj|solutionrelative:onlinemobilestore\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E4E0FE2-726D-45D1-8A2B-E6C719C65EF2}|OnlineMobileStore\\OnlineMobileStore.csproj|c:\\users\\electronica care\\downloads\\telegram desktop\\onlinemobilestore_17_may\\onlinemobilestore\\onlinemobilestore\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E4E0FE2-726D-45D1-8A2B-E6C719C65EF2}|OnlineMobileStore\\OnlineMobileStore.csproj|solutionrelative:onlinemobilestore\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E4E0FE2-726D-45D1-8A2B-E6C719C65EF2}|OnlineMobileStore\\OnlineMobileStore.csproj|c:\\users\\electronica care\\downloads\\telegram desktop\\onlinemobilestore_17_may\\onlinemobilestore\\onlinemobilestore\\views\\order\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8E4E0FE2-726D-45D1-8A2B-E6C719C65EF2}|OnlineMobileStore\\OnlineMobileStore.csproj|solutionrelative:onlinemobilestore\\views\\order\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E4E0FE2-726D-45D1-8A2B-E6C719C65EF2}|OnlineMobileStore\\OnlineMobileStore.csproj|c:\\users\\electronica care\\downloads\\telegram desktop\\onlinemobilestore_17_may\\onlinemobilestore\\onlinemobilestore\\controllers\\profilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E4E0FE2-726D-45D1-8A2B-E6C719C65EF2}|OnlineMobileStore\\OnlineMobileStore.csproj|solutionrelative:onlinemobilestore\\controllers\\profilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E4E0FE2-726D-45D1-8A2B-E6C719C65EF2}|OnlineMobileStore\\OnlineMobileStore.csproj|c:\\users\\electronica care\\downloads\\telegram desktop\\onlinemobilestore_17_may\\onlinemobilestore\\onlinemobilestore\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8E4E0FE2-726D-45D1-8A2B-E6C719C65EF2}|OnlineMobileStore\\OnlineMobileStore.csproj|solutionrelative:onlinemobilestore\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E4E0FE2-726D-45D1-8A2B-E6C719C65EF2}|OnlineMobileStore\\OnlineMobileStore.csproj|c:\\users\\electronica care\\downloads\\telegram desktop\\onlinemobilestore_17_may\\onlinemobilestore\\onlinemobilestore\\views\\profile\\orderdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8E4E0FE2-726D-45D1-8A2B-E6C719C65EF2}|OnlineMobileStore\\OnlineMobileStore.csproj|solutionrelative:onlinemobilestore\\views\\profile\\orderdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E4E0FE2-726D-45D1-8A2B-E6C719C65EF2}|OnlineMobileStore\\OnlineMobileStore.csproj|c:\\users\\electronica care\\downloads\\telegram desktop\\onlinemobilestore_17_may\\onlinemobilestore\\onlinemobilestore\\views\\profile\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8E4E0FE2-726D-45D1-8A2B-E6C719C65EF2}|OnlineMobileStore\\OnlineMobileStore.csproj|solutionrelative:onlinemobilestore\\views\\profile\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E4E0FE2-726D-45D1-8A2B-E6C719C65EF2}|OnlineMobileStore\\OnlineMobileStore.csproj|c:\\users\\electronica care\\downloads\\telegram desktop\\onlinemobilestore_17_may\\onlinemobilestore\\onlinemobilestore\\views\\profile\\history.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8E4E0FE2-726D-45D1-8A2B-E6C719C65EF2}|OnlineMobileStore\\OnlineMobileStore.csproj|solutionrelative:onlinemobilestore\\views\\profile\\history.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E4E0FE2-726D-45D1-8A2B-E6C719C65EF2}|OnlineMobileStore\\OnlineMobileStore.csproj|c:\\users\\electronica care\\downloads\\telegram desktop\\onlinemobilestore_17_may\\onlinemobilestore\\onlinemobilestore\\views\\profile\\editprofile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8E4E0FE2-726D-45D1-8A2B-E6C719C65EF2}|OnlineMobileStore\\OnlineMobileStore.csproj|solutionrelative:onlinemobilestore\\views\\profile\\editprofile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E4E0FE2-726D-45D1-8A2B-E6C719C65EF2}|OnlineMobileStore\\OnlineMobileStore.csproj|c:\\users\\electronica care\\downloads\\telegram desktop\\onlinemobilestore_17_may\\onlinemobilestore\\onlinemobilestore\\views\\profile\\aindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8E4E0FE2-726D-45D1-8A2B-E6C719C65EF2}|OnlineMobileStore\\OnlineMobileStore.csproj|solutionrelative:onlinemobilestore\\views\\profile\\aindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E4E0FE2-726D-45D1-8A2B-E6C719C65EF2}|OnlineMobileStore\\OnlineMobileStore.csproj|c:\\users\\electronica care\\downloads\\telegram desktop\\onlinemobilestore_17_may\\onlinemobilestore\\onlinemobilestore\\views\\profile\\aeditprofile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8E4E0FE2-726D-45D1-8A2B-E6C719C65EF2}|OnlineMobileStore\\OnlineMobileStore.csproj|solutionrelative:onlinemobilestore\\views\\profile\\aeditprofile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E4E0FE2-726D-45D1-8A2B-E6C719C65EF2}|OnlineMobileStore\\OnlineMobileStore.csproj|c:\\users\\electronica care\\downloads\\telegram desktop\\onlinemobilestore_17_may\\onlinemobilestore\\onlinemobilestore\\views\\order\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8E4E0FE2-726D-45D1-8A2B-E6C719C65EF2}|OnlineMobileStore\\OnlineMobileStore.csproj|solutionrelative:onlinemobilestore\\views\\order\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E4E0FE2-726D-45D1-8A2B-E6C719C65EF2}|OnlineMobileStore\\OnlineMobileStore.csproj|c:\\users\\electronica care\\downloads\\telegram desktop\\onlinemobilestore_17_may\\onlinemobilestore\\onlinemobilestore\\views\\mobile\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8E4E0FE2-726D-45D1-8A2B-E6C719C65EF2}|OnlineMobileStore\\OnlineMobileStore.csproj|solutionrelative:onlinemobilestore\\views\\mobile\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E4E0FE2-726D-45D1-8A2B-E6C719C65EF2}|OnlineMobileStore\\OnlineMobileStore.csproj|c:\\users\\electronica care\\downloads\\telegram desktop\\onlinemobilestore_17_may\\onlinemobilestore\\onlinemobilestore\\views\\mobile\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8E4E0FE2-726D-45D1-8A2B-E6C719C65EF2}|OnlineMobileStore\\OnlineMobileStore.csproj|solutionrelative:onlinemobilestore\\views\\mobile\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E4E0FE2-726D-45D1-8A2B-E6C719C65EF2}|OnlineMobileStore\\OnlineMobileStore.csproj|c:\\users\\electronica care\\downloads\\telegram desktop\\onlinemobilestore_17_may\\onlinemobilestore\\onlinemobilestore\\views\\mobile\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8E4E0FE2-726D-45D1-8A2B-E6C719C65EF2}|OnlineMobileStore\\OnlineMobileStore.csproj|solutionrelative:onlinemobilestore\\views\\mobile\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E4E0FE2-726D-45D1-8A2B-E6C719C65EF2}|OnlineMobileStore\\OnlineMobileStore.csproj|c:\\users\\electronica care\\downloads\\telegram desktop\\onlinemobilestore_17_may\\onlinemobilestore\\onlinemobilestore\\views\\mobile\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8E4E0FE2-726D-45D1-8A2B-E6C719C65EF2}|OnlineMobileStore\\OnlineMobileStore.csproj|solutionrelative:onlinemobilestore\\views\\mobile\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E4E0FE2-726D-45D1-8A2B-E6C719C65EF2}|OnlineMobileStore\\OnlineMobileStore.csproj|c:\\users\\electronica care\\downloads\\telegram desktop\\onlinemobilestore_17_may\\onlinemobilestore\\onlinemobilestore\\views\\home\\productdetail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8E4E0FE2-726D-45D1-8A2B-E6C719C65EF2}|OnlineMobileStore\\OnlineMobileStore.csproj|solutionrelative:onlinemobilestore\\views\\home\\productdetail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E4E0FE2-726D-45D1-8A2B-E6C719C65EF2}|OnlineMobileStore\\OnlineMobileStore.csproj|c:\\users\\electronica care\\downloads\\telegram desktop\\onlinemobilestore_17_may\\onlinemobilestore\\onlinemobilestore\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8E4E0FE2-726D-45D1-8A2B-E6C719C65EF2}|OnlineMobileStore\\OnlineMobileStore.csproj|solutionrelative:onlinemobilestore\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E4E0FE2-726D-45D1-8A2B-E6C719C65EF2}|OnlineMobileStore\\OnlineMobileStore.csproj|c:\\users\\electronica care\\downloads\\telegram desktop\\onlinemobilestore_17_may\\onlinemobilestore\\onlinemobilestore\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8E4E0FE2-726D-45D1-8A2B-E6C719C65EF2}|OnlineMobileStore\\OnlineMobileStore.csproj|solutionrelative:onlinemobilestore\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E4E0FE2-726D-45D1-8A2B-E6C719C65EF2}|OnlineMobileStore\\OnlineMobileStore.csproj|c:\\users\\electronica care\\downloads\\telegram desktop\\onlinemobilestore_17_may\\onlinemobilestore\\onlinemobilestore\\views\\home\\accessdenied.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8E4E0FE2-726D-45D1-8A2B-E6C719C65EF2}|OnlineMobileStore\\OnlineMobileStore.csproj|solutionrelative:onlinemobilestore\\views\\home\\accessdenied.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E4E0FE2-726D-45D1-8A2B-E6C719C65EF2}|OnlineMobileStore\\OnlineMobileStore.csproj|c:\\users\\electronica care\\downloads\\telegram desktop\\onlinemobilestore_17_may\\onlinemobilestore\\onlinemobilestore\\views\\company\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8E4E0FE2-726D-45D1-8A2B-E6C719C65EF2}|OnlineMobileStore\\OnlineMobileStore.csproj|solutionrelative:onlinemobilestore\\views\\company\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E4E0FE2-726D-45D1-8A2B-E6C719C65EF2}|OnlineMobileStore\\OnlineMobileStore.csproj|c:\\users\\electronica care\\downloads\\telegram desktop\\onlinemobilestore_17_may\\onlinemobilestore\\onlinemobilestore\\views\\company\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8E4E0FE2-726D-45D1-8A2B-E6C719C65EF2}|OnlineMobileStore\\OnlineMobileStore.csproj|solutionrelative:onlinemobilestore\\views\\company\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E4E0FE2-726D-45D1-8A2B-E6C719C65EF2}|OnlineMobileStore\\OnlineMobileStore.csproj|c:\\users\\electronica care\\downloads\\telegram desktop\\onlinemobilestore_17_may\\onlinemobilestore\\onlinemobilestore\\views\\company\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8E4E0FE2-726D-45D1-8A2B-E6C719C65EF2}|OnlineMobileStore\\OnlineMobileStore.csproj|solutionrelative:onlinemobilestore\\views\\company\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E4E0FE2-726D-45D1-8A2B-E6C719C65EF2}|OnlineMobileStore\\OnlineMobileStore.csproj|c:\\users\\electronica care\\downloads\\telegram desktop\\onlinemobilestore_17_may\\onlinemobilestore\\onlinemobilestore\\views\\cart\\confirmation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8E4E0FE2-726D-45D1-8A2B-E6C719C65EF2}|OnlineMobileStore\\OnlineMobileStore.csproj|solutionrelative:onlinemobilestore\\views\\cart\\confirmation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E4E0FE2-726D-45D1-8A2B-E6C719C65EF2}|OnlineMobileStore\\OnlineMobileStore.csproj|c:\\users\\electronica care\\downloads\\telegram desktop\\onlinemobilestore_17_may\\onlinemobilestore\\onlinemobilestore\\views\\authentication\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8E4E0FE2-726D-45D1-8A2B-E6C719C65EF2}|OnlineMobileStore\\OnlineMobileStore.csproj|solutionrelative:onlinemobilestore\\views\\authentication\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E4E0FE2-726D-45D1-8A2B-E6C719C65EF2}|OnlineMobileStore\\OnlineMobileStore.csproj|c:\\users\\electronica care\\downloads\\telegram desktop\\onlinemobilestore_17_may\\onlinemobilestore\\onlinemobilestore\\views\\shared\\adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8E4E0FE2-726D-45D1-8A2B-E6C719C65EF2}|OnlineMobileStore\\OnlineMobileStore.csproj|solutionrelative:onlinemobilestore\\views\\shared\\adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/DESKTOP_1PS76VD/OnlineMobileStore/True/SqlTable/dbo.Order.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E4E0FE2-726D-45D1-8A2B-E6C719C65EF2}|OnlineMobileStore\\OnlineMobileStore.csproj|c:\\users\\electronica care\\downloads\\telegram desktop\\onlinemobilestore_17_may\\onlinemobilestore\\onlinemobilestore\\views\\user\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8E4E0FE2-726D-45D1-8A2B-E6C719C65EF2}|OnlineMobileStore\\OnlineMobileStore.csproj|solutionrelative:onlinemobilestore\\views\\user\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E4E0FE2-726D-45D1-8A2B-E6C719C65EF2}|OnlineMobileStore\\OnlineMobileStore.csproj|c:\\users\\electronica care\\downloads\\telegram desktop\\onlinemobilestore_17_may\\onlinemobilestore\\onlinemobilestore\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8E4E0FE2-726D-45D1-8A2B-E6C719C65EF2}|OnlineMobileStore\\OnlineMobileStore.csproj|solutionrelative:onlinemobilestore\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/DESKTOP_1PS76VD/OnlineMobileStore/True/SqlTable/dbo.User.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DELL\\Documents\\OnlineMobileStore\\OnlineMobileStore\\Migrations\\20240517105015_em2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DELL\\Documents\\OnlineMobileStore\\OnlineMobileStore\\Migrations\\20240517104949_em.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E4E0FE2-726D-45D1-8A2B-E6C719C65EF2}|OnlineMobileStore\\OnlineMobileStore.csproj|c:\\users\\electronica care\\downloads\\telegram desktop\\onlinemobilestore_17_may\\onlinemobilestore\\onlinemobilestore\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E4E0FE2-726D-45D1-8A2B-E6C719C65EF2}|OnlineMobileStore\\OnlineMobileStore.csproj|solutionrelative:onlinemobilestore\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E4E0FE2-726D-45D1-8A2B-E6C719C65EF2}|OnlineMobileStore\\OnlineMobileStore.csproj|c:\\users\\electronica care\\downloads\\telegram desktop\\onlinemobilestore_17_may\\onlinemobilestore\\onlinemobilestore\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E4E0FE2-726D-45D1-8A2B-E6C719C65EF2}|OnlineMobileStore\\OnlineMobileStore.csproj|solutionrelative:onlinemobilestore\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DELL\\Documents\\OnlineMobileStore\\OnlineMobileStore\\Migrations\\20240517101325_fri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E4E0FE2-726D-45D1-8A2B-E6C719C65EF2}|OnlineMobileStore\\OnlineMobileStore.csproj|c:\\users\\electronica care\\downloads\\telegram desktop\\onlinemobilestore_17_may\\onlinemobilestore\\onlinemobilestore\\views\\shared\\afterlogin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8E4E0FE2-726D-45D1-8A2B-E6C719C65EF2}|OnlineMobileStore\\OnlineMobileStore.csproj|solutionrelative:onlinemobilestore\\views\\shared\\afterlogin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/DESKTOP_1PS76VD/OnlineMobileStore/True/SqlTable/dbo.Mobile.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/DESKTOP_1PS76VD/OnlineMobileStore/True/SqlTable/dbo.MobileOrder.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E4E0FE2-726D-45D1-8A2B-E6C719C65EF2}|OnlineMobileStore\\OnlineMobileStore.csproj|c:\\users\\electronica care\\downloads\\telegram desktop\\onlinemobilestore_17_may\\onlinemobilestore\\onlinemobilestore\\jsontempdataprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E4E0FE2-726D-45D1-8A2B-E6C719C65EF2}|OnlineMobileStore\\OnlineMobileStore.csproj|solutionrelative:onlinemobilestore\\jsontempdataprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E4E0FE2-726D-45D1-8A2B-E6C719C65EF2}|OnlineMobileStore\\OnlineMobileStore.csproj|c:\\users\\electronica care\\downloads\\telegram desktop\\onlinemobilestore_17_may\\onlinemobilestore\\onlinemobilestore\\itempdataserializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E4E0FE2-726D-45D1-8A2B-E6C719C65EF2}|OnlineMobileStore\\OnlineMobileStore.csproj|solutionrelative:onlinemobilestore\\itempdataserializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/DESKTOP_1PS76VD/OnlineMobileStore/True/SqlTable/dbo.Company.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/OnlineMobileStore/True/SqlTable/dbo.Admin.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E4E0FE2-726D-45D1-8A2B-E6C719C65EF2}|OnlineMobileStore\\OnlineMobileStore.csproj|c:\\users\\electronica care\\downloads\\telegram desktop\\onlinemobilestore_17_may\\onlinemobilestore\\onlinemobilestore\\migrations\\20240517105751_em.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E4E0FE2-726D-45D1-8A2B-E6C719C65EF2}|OnlineMobileStore\\OnlineMobileStore.csproj|solutionrelative:onlinemobilestore\\migrations\\20240517105751_em.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E4E0FE2-726D-45D1-8A2B-E6C719C65EF2}|OnlineMobileStore\\OnlineMobileStore.csproj|c:\\users\\electronica care\\downloads\\telegram desktop\\onlinemobilestore_17_may\\onlinemobilestore\\onlinemobilestore\\migrations\\20240517125014_eman17.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E4E0FE2-726D-45D1-8A2B-E6C719C65EF2}|OnlineMobileStore\\OnlineMobileStore.csproj|solutionrelative:onlinemobilestore\\migrations\\20240517125014_eman17.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 181,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "dbo.Mobile [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/OnlineMobileStore/True/SqlTable/dbo.Mobile.sql",
+              "ToolTip": "dbo.Mobile [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-05-18T17:09:09.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CompanyController.cs",
+              "DocumentMoniker": "C:\\Users\\Electronica Care\\Downloads\\Telegram Desktop\\OnlineMobileStore_17_May\\OnlineMobileStore\\OnlineMobileStore\\Controllers\\CompanyController.cs",
+              "RelativeDocumentMoniker": "OnlineMobileStore\\Controllers\\CompanyController.cs",
+              "ToolTip": "C:\\Users\\Electronica Care\\Downloads\\Telegram Desktop\\OnlineMobileStore_17_May\\OnlineMobileStore\\OnlineMobileStore\\Controllers\\CompanyController.cs",
+              "RelativeToolTip": "OnlineMobileStore\\Controllers\\CompanyController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T22:18:48.481Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "C:\\Users\\Electronica Care\\Downloads\\Telegram Desktop\\OnlineMobileStore_17_May\\OnlineMobileStore\\OnlineMobileStore\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "OnlineMobileStore\\Controllers\\CartController.cs",
+              "ToolTip": "C:\\Users\\Electronica Care\\Downloads\\Telegram Desktop\\OnlineMobileStore_17_May\\OnlineMobileStore\\OnlineMobileStore\\Controllers\\CartController.cs",
+              "RelativeToolTip": "OnlineMobileStore\\Controllers\\CartController.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAQwB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T19:28:50.41Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Electronica Care\\Downloads\\Telegram Desktop\\OnlineMobileStore_17_May\\OnlineMobileStore\\OnlineMobileStore\\Views\\Cart\\Index.cshtml",
+              "RelativeDocumentMoniker": "OnlineMobileStore\\Views\\Cart\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Electronica Care\\Downloads\\Telegram Desktop\\OnlineMobileStore_17_May\\OnlineMobileStore\\OnlineMobileStore\\Views\\Cart\\Index.cshtml",
+              "RelativeToolTip": "OnlineMobileStore\\Views\\Cart\\Index.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAABkAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-12T20:10:56.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ConfirmOrder.cshtml",
+              "DocumentMoniker": "C:\\Users\\Electronica Care\\Downloads\\Telegram Desktop\\OnlineMobileStore_17_May\\OnlineMobileStore\\OnlineMobileStore\\Views\\Cart\\ConfirmOrder.cshtml",
+              "RelativeDocumentMoniker": "OnlineMobileStore\\Views\\Cart\\ConfirmOrder.cshtml",
+              "ToolTip": "C:\\Users\\Electronica Care\\Downloads\\Telegram Desktop\\OnlineMobileStore_17_May\\OnlineMobileStore\\OnlineMobileStore\\Views\\Cart\\ConfirmOrder.cshtml",
+              "RelativeToolTip": "OnlineMobileStore\\Views\\Cart\\ConfirmOrder.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-13T18:02:00.252Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Electronica Care\\Downloads\\Telegram Desktop\\OnlineMobileStore_17_May\\OnlineMobileStore\\OnlineMobileStore\\Views\\Mobile\\Create.cshtml",
+              "RelativeDocumentMoniker": "OnlineMobileStore\\Views\\Mobile\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Electronica Care\\Downloads\\Telegram Desktop\\OnlineMobileStore_17_May\\OnlineMobileStore\\OnlineMobileStore\\Views\\Mobile\\Create.cshtml",
+              "RelativeToolTip": "OnlineMobileStore\\Views\\Mobile\\Create.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAADAAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-14T23:41:08.401Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Mobile_Search.cshtml",
+              "DocumentMoniker": "C:\\Users\\Electronica Care\\Downloads\\Telegram Desktop\\OnlineMobileStore_17_May\\OnlineMobileStore\\OnlineMobileStore\\Views\\Home\\Mobile_Search.cshtml",
+              "RelativeDocumentMoniker": "OnlineMobileStore\\Views\\Home\\Mobile_Search.cshtml",
+              "ToolTip": "C:\\Users\\Electronica Care\\Downloads\\Telegram Desktop\\OnlineMobileStore_17_May\\OnlineMobileStore\\OnlineMobileStore\\Views\\Home\\Mobile_Search.cshtml",
+              "RelativeToolTip": "OnlineMobileStore\\Views\\Home\\Mobile_Search.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABoAAABrAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-13T09:45:59.661Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Electronica Care\\Downloads\\Telegram Desktop\\OnlineMobileStore_17_May\\OnlineMobileStore\\OnlineMobileStore\\Program.cs",
+              "RelativeDocumentMoniker": "OnlineMobileStore\\Program.cs",
+              "ToolTip": "C:\\Users\\Electronica Care\\Downloads\\Telegram Desktop\\OnlineMobileStore_17_May\\OnlineMobileStore\\OnlineMobileStore\\Program.cs",
+              "RelativeToolTip": "OnlineMobileStore\\Program.cs",
+              "ViewState": "AQIAAEYAAAAAAAAAAADwv1wAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T14:39:58.665Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Mobile.cshtml",
+              "DocumentMoniker": "C:\\Users\\Electronica Care\\Downloads\\Telegram Desktop\\OnlineMobileStore_17_May\\OnlineMobileStore\\OnlineMobileStore\\Views\\Home\\Mobile.cshtml",
+              "RelativeDocumentMoniker": "OnlineMobileStore\\Views\\Home\\Mobile.cshtml",
+              "ToolTip": "C:\\Users\\Electronica Care\\Downloads\\Telegram Desktop\\OnlineMobileStore_17_May\\OnlineMobileStore\\OnlineMobileStore\\Views\\Home\\Mobile.cshtml",
+              "RelativeToolTip": "OnlineMobileStore\\Views\\Home\\Mobile.cshtml",
+              "ViewState": "AQIAABoAAAAAAAAAAADwvygAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-16T18:49:49.374Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Electronica Care\\Downloads\\Telegram Desktop\\OnlineMobileStore_17_May\\OnlineMobileStore\\OnlineMobileStore\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "OnlineMobileStore\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Electronica Care\\Downloads\\Telegram Desktop\\OnlineMobileStore_17_May\\OnlineMobileStore\\OnlineMobileStore\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "OnlineMobileStore\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAxwBAAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T09:43:02.643Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "OrderItem.cs",
+              "DocumentMoniker": "C:\\Users\\Electronica Care\\Downloads\\Telegram Desktop\\OnlineMobileStore_17_May\\OnlineMobileStore\\OnlineMobileStore\\Models\\OrderItem.cs",
+              "RelativeDocumentMoniker": "OnlineMobileStore\\Models\\OrderItem.cs",
+              "ToolTip": "C:\\Users\\Electronica Care\\Downloads\\Telegram Desktop\\OnlineMobileStore_17_May\\OnlineMobileStore\\OnlineMobileStore\\Models\\OrderItem.cs",
+              "RelativeToolTip": "OnlineMobileStore\\Models\\OrderItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T10:16:45.226Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Payment.cs",
+              "DocumentMoniker": "C:\\Users\\Electronica Care\\Downloads\\Telegram Desktop\\OnlineMobileStore_17_May\\OnlineMobileStore\\OnlineMobileStore\\Models\\Payment.cs",
+              "RelativeDocumentMoniker": "OnlineMobileStore\\Models\\Payment.cs",
+              "ToolTip": "C:\\Users\\Electronica Care\\Downloads\\Telegram Desktop\\OnlineMobileStore_17_May\\OnlineMobileStore\\OnlineMobileStore\\Models\\Payment.cs",
+              "RelativeToolTip": "OnlineMobileStore\\Models\\Payment.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAxwAcAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T22:47:09.591Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AuthenticationController.cs",
+              "DocumentMoniker": "C:\\Users\\Electronica Care\\Downloads\\Telegram Desktop\\OnlineMobileStore_17_May\\OnlineMobileStore\\OnlineMobileStore\\Controllers\\AuthenticationController.cs",
+              "RelativeDocumentMoniker": "OnlineMobileStore\\Controllers\\AuthenticationController.cs",
+              "ToolTip": "C:\\Users\\Electronica Care\\Downloads\\Telegram Desktop\\OnlineMobileStore_17_May\\OnlineMobileStore\\OnlineMobileStore\\Controllers\\AuthenticationController.cs",
+              "RelativeToolTip": "OnlineMobileStore\\Controllers\\AuthenticationController.cs",
+              "ViewState": "AQIAADsAAAAAAAAAAAAwwEYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T15:53:25.69Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\Electronica Care\\Downloads\\Telegram Desktop\\OnlineMobileStore_17_May\\OnlineMobileStore\\OnlineMobileStore\\Views\\Authentication\\Login.cshtml",
+              "RelativeDocumentMoniker": "OnlineMobileStore\\Views\\Authentication\\Login.cshtml",
+              "ToolTip": "C:\\Users\\Electronica Care\\Downloads\\Telegram Desktop\\OnlineMobileStore_17_May\\OnlineMobileStore\\OnlineMobileStore\\Views\\Authentication\\Login.cshtml",
+              "RelativeToolTip": "OnlineMobileStore\\Views\\Authentication\\Login.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABUAAAB6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-14T22:51:21.245Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Payment.cshtml",
+              "DocumentMoniker": "C:\\Users\\Electronica Care\\Downloads\\Telegram Desktop\\OnlineMobileStore_17_May\\OnlineMobileStore\\OnlineMobileStore\\Views\\Cart\\Payment.cshtml",
+              "RelativeDocumentMoniker": "OnlineMobileStore\\Views\\Cart\\Payment.cshtml",
+              "ToolTip": "C:\\Users\\Electronica Care\\Downloads\\Telegram Desktop\\OnlineMobileStore_17_May\\OnlineMobileStore\\OnlineMobileStore\\Views\\Cart\\Payment.cshtml",
+              "RelativeToolTip": "OnlineMobileStore\\Views\\Cart\\Payment.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABIAAAB9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-12T22:36:39.774Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CreateMobileViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Electronica Care\\Downloads\\Telegram Desktop\\OnlineMobileStore_17_May\\OnlineMobileStore\\OnlineMobileStore\\ViewModels\\CreateMobileViewModel.cs",
+              "RelativeDocumentMoniker": "OnlineMobileStore\\ViewModels\\CreateMobileViewModel.cs",
+              "ToolTip": "C:\\Users\\Electronica Care\\Downloads\\Telegram Desktop\\OnlineMobileStore_17_May\\OnlineMobileStore\\OnlineMobileStore\\ViewModels\\CreateMobileViewModel.cs",
+              "RelativeToolTip": "OnlineMobileStore\\ViewModels\\CreateMobileViewModel.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA8AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T13:06:47.145Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Electronica Care\\Downloads\\Telegram Desktop\\OnlineMobileStore_17_May\\OnlineMobileStore\\OnlineMobileStore\\Models\\User.cs",
+              "RelativeDocumentMoniker": "OnlineMobileStore\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\Electronica Care\\Downloads\\Telegram Desktop\\OnlineMobileStore_17_May\\OnlineMobileStore\\OnlineMobileStore\\Models\\User.cs",
+              "RelativeToolTip": "OnlineMobileStore\\Models\\User.cs",
+              "ViewState": "AQIAAG0AAAAAAAAAAAAAAHEAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T22:13:04.548Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AllowedExtensionsAttribute.cs",
+              "DocumentMoniker": "C:\\Users\\Electronica Care\\Downloads\\Telegram Desktop\\OnlineMobileStore_17_May\\OnlineMobileStore\\OnlineMobileStore\\Attributes\\AllowedExtensionsAttribute.cs",
+              "RelativeDocumentMoniker": "OnlineMobileStore\\Attributes\\AllowedExtensionsAttribute.cs",
+              "ToolTip": "C:\\Users\\Electronica Care\\Downloads\\Telegram Desktop\\OnlineMobileStore_17_May\\OnlineMobileStore\\OnlineMobileStore\\Attributes\\AllowedExtensionsAttribute.cs",
+              "RelativeToolTip": "OnlineMobileStore\\Attributes\\AllowedExtensionsAttribute.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwAgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T13:22:06.036Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Electronica Care\\Downloads\\Telegram Desktop\\OnlineMobileStore_17_May\\OnlineMobileStore\\OnlineMobileStore\\Views\\Company\\Create.cshtml",
+              "RelativeDocumentMoniker": "OnlineMobileStore\\Views\\Company\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Electronica Care\\Downloads\\Telegram Desktop\\OnlineMobileStore_17_May\\OnlineMobileStore\\OnlineMobileStore\\Views\\Company\\Create.cshtml",
+              "RelativeToolTip": "OnlineMobileStore\\Views\\Company\\Create.cshtml",
+              "ViewState": "AQIAABAAAAAAAAAAAADwvzAAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-17T11:32:45.764Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Mobile.cs",
+              "DocumentMoniker": "C:\\Users\\Electronica Care\\Downloads\\Telegram Desktop\\OnlineMobileStore_17_May\\OnlineMobileStore\\OnlineMobileStore\\Models\\Mobile.cs",
+              "RelativeDocumentMoniker": "OnlineMobileStore\\Models\\Mobile.cs",
+              "ToolTip": "C:\\Users\\Electronica Care\\Downloads\\Telegram Desktop\\OnlineMobileStore_17_May\\OnlineMobileStore\\OnlineMobileStore\\Models\\Mobile.cs",
+              "RelativeToolTip": "OnlineMobileStore\\Models\\Mobile.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAuwBEAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T22:20:40.503Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "FileSettings.cs",
+              "DocumentMoniker": "C:\\Users\\Electronica Care\\Downloads\\Telegram Desktop\\OnlineMobileStore_17_May\\OnlineMobileStore\\OnlineMobileStore\\Settings\\FileSettings.cs",
+              "RelativeDocumentMoniker": "OnlineMobileStore\\Settings\\FileSettings.cs",
+              "ToolTip": "C:\\Users\\Electronica Care\\Downloads\\Telegram Desktop\\OnlineMobileStore_17_May\\OnlineMobileStore\\OnlineMobileStore\\Settings\\FileSettings.cs",
+              "RelativeToolTip": "OnlineMobileStore\\Settings\\FileSettings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T13:40:48.012Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Company.cs",
+              "DocumentMoniker": "C:\\Users\\Electronica Care\\Downloads\\Telegram Desktop\\OnlineMobileStore_17_May\\OnlineMobileStore\\OnlineMobileStore\\Models\\Company.cs",
+              "RelativeDocumentMoniker": "OnlineMobileStore\\Models\\Company.cs",
+              "ToolTip": "C:\\Users\\Electronica Care\\Downloads\\Telegram Desktop\\OnlineMobileStore_17_May\\OnlineMobileStore\\OnlineMobileStore\\Models\\Company.cs",
+              "RelativeToolTip": "OnlineMobileStore\\Models\\Company.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T13:16:24.269Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "20240517125014_eman17.cs",
+              "DocumentMoniker": "C:\\Users\\Electronica Care\\Downloads\\Telegram Desktop\\OnlineMobileStore_17_May\\OnlineMobileStore\\OnlineMobileStore\\Migrations\\20240517125014_eman17.cs",
+              "RelativeDocumentMoniker": "OnlineMobileStore\\Migrations\\20240517125014_eman17.cs",
+              "ToolTip": "C:\\Users\\Electronica Care\\Downloads\\Telegram Desktop\\OnlineMobileStore_17_May\\OnlineMobileStore\\OnlineMobileStore\\Migrations\\20240517125014_eman17.cs",
+              "RelativeToolTip": "OnlineMobileStore\\Migrations\\20240517125014_eman17.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T12:50:14.454Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Electronica Care\\Downloads\\Telegram Desktop\\OnlineMobileStore_17_May\\OnlineMobileStore\\OnlineMobileStore\\appsettings.json",
+              "RelativeDocumentMoniker": "OnlineMobileStore\\appsettings.json",
+              "ToolTip": "C:\\Users\\Electronica Care\\Downloads\\Telegram Desktop\\OnlineMobileStore_17_May\\OnlineMobileStore\\OnlineMobileStore\\appsettings.json",
+              "RelativeToolTip": "OnlineMobileStore\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-17T12:49:06.322Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "C:\\Users\\Electronica Care\\Downloads\\Telegram Desktop\\OnlineMobileStore_17_May\\OnlineMobileStore\\OnlineMobileStore\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "OnlineMobileStore\\Controllers\\OrderController.cs",
+              "ToolTip": "C:\\Users\\Electronica Care\\Downloads\\Telegram Desktop\\OnlineMobileStore_17_May\\OnlineMobileStore\\OnlineMobileStore\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "OnlineMobileStore\\Controllers\\OrderController.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAgwDcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T19:16:12.351Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\Electronica Care\\Downloads\\Telegram Desktop\\OnlineMobileStore_17_May\\OnlineMobileStore\\OnlineMobileStore\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "OnlineMobileStore\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\Electronica Care\\Downloads\\Telegram Desktop\\OnlineMobileStore_17_May\\OnlineMobileStore\\OnlineMobileStore\\Controllers\\UserController.cs",
+              "RelativeToolTip": "OnlineMobileStore\\Controllers\\UserController.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAxwCUAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T18:10:15.555Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Electronica Care\\Downloads\\Telegram Desktop\\OnlineMobileStore_17_May\\OnlineMobileStore\\OnlineMobileStore\\Views\\Order\\Details.cshtml",
+              "RelativeDocumentMoniker": "OnlineMobileStore\\Views\\Order\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Electronica Care\\Downloads\\Telegram Desktop\\OnlineMobileStore_17_May\\OnlineMobileStore\\OnlineMobileStore\\Views\\Order\\Details.cshtml",
+              "RelativeToolTip": "OnlineMobileStore\\Views\\Order\\Details.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-15T19:30:07.081Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ProfileController.cs",
+              "DocumentMoniker": "C:\\Users\\Electronica Care\\Downloads\\Telegram Desktop\\OnlineMobileStore_17_May\\OnlineMobileStore\\OnlineMobileStore\\Controllers\\ProfileController.cs",
+              "RelativeDocumentMoniker": "OnlineMobileStore\\Controllers\\ProfileController.cs",
+              "ToolTip": "C:\\Users\\Electronica Care\\Downloads\\Telegram Desktop\\OnlineMobileStore_17_May\\OnlineMobileStore\\OnlineMobileStore\\Controllers\\ProfileController.cs",
+              "RelativeToolTip": "OnlineMobileStore\\Controllers\\ProfileController.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAUwGcAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T14:11:49.735Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Electronica Care\\Downloads\\Telegram Desktop\\OnlineMobileStore_17_May\\OnlineMobileStore\\OnlineMobileStore\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "OnlineMobileStore\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Electronica Care\\Downloads\\Telegram Desktop\\OnlineMobileStore_17_May\\OnlineMobileStore\\OnlineMobileStore\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "OnlineMobileStore\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAFcAAAAAAAAAAAAAAGAAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-03T08:09:06.596Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "OrderDetails.cshtml",
+              "DocumentMoniker": "C:\\Users\\Electronica Care\\Downloads\\Telegram Desktop\\OnlineMobileStore_17_May\\OnlineMobileStore\\OnlineMobileStore\\Views\\Profile\\OrderDetails.cshtml",
+              "RelativeDocumentMoniker": "OnlineMobileStore\\Views\\Profile\\OrderDetails.cshtml",
+              "ToolTip": "C:\\Users\\Electronica Care\\Downloads\\Telegram Desktop\\OnlineMobileStore_17_May\\OnlineMobileStore\\OnlineMobileStore\\Views\\Profile\\OrderDetails.cshtml",
+              "RelativeToolTip": "OnlineMobileStore\\Views\\Profile\\OrderDetails.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACwAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-16T16:52:45.373Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Electronica Care\\Downloads\\Telegram Desktop\\OnlineMobileStore_17_May\\OnlineMobileStore\\OnlineMobileStore\\Views\\Profile\\Index.cshtml",
+              "RelativeDocumentMoniker": "OnlineMobileStore\\Views\\Profile\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Electronica Care\\Downloads\\Telegram Desktop\\OnlineMobileStore_17_May\\OnlineMobileStore\\OnlineMobileStore\\Views\\Profile\\Index.cshtml",
+              "RelativeToolTip": "OnlineMobileStore\\Views\\Profile\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-16T16:00:08.6Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "History.cshtml",
+              "DocumentMoniker": "C:\\Users\\Electronica Care\\Downloads\\Telegram Desktop\\OnlineMobileStore_17_May\\OnlineMobileStore\\OnlineMobileStore\\Views\\Profile\\History.cshtml",
+              "RelativeDocumentMoniker": "OnlineMobileStore\\Views\\Profile\\History.cshtml",
+              "ToolTip": "C:\\Users\\Electronica Care\\Downloads\\Telegram Desktop\\OnlineMobileStore_17_May\\OnlineMobileStore\\OnlineMobileStore\\Views\\Profile\\History.cshtml",
+              "RelativeToolTip": "OnlineMobileStore\\Views\\Profile\\History.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADAAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-16T16:05:12.694Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "EditProfile.cshtml",
+              "DocumentMoniker": "C:\\Users\\Electronica Care\\Downloads\\Telegram Desktop\\OnlineMobileStore_17_May\\OnlineMobileStore\\OnlineMobileStore\\Views\\Profile\\EditProfile.cshtml",
+              "RelativeDocumentMoniker": "OnlineMobileStore\\Views\\Profile\\EditProfile.cshtml",
+              "ToolTip": "C:\\Users\\Electronica Care\\Downloads\\Telegram Desktop\\OnlineMobileStore_17_May\\OnlineMobileStore\\OnlineMobileStore\\Views\\Profile\\EditProfile.cshtml",
+              "RelativeToolTip": "OnlineMobileStore\\Views\\Profile\\EditProfile.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-16T16:53:23.261Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "AIndex.cshtml",
+              "DocumentMoniker": "C:\\Users\\Electronica Care\\Downloads\\Telegram Desktop\\OnlineMobileStore_17_May\\OnlineMobileStore\\OnlineMobileStore\\Views\\Profile\\AIndex.cshtml",
+              "RelativeDocumentMoniker": "OnlineMobileStore\\Views\\Profile\\AIndex.cshtml",
+              "ToolTip": "C:\\Users\\Electronica Care\\Downloads\\Telegram Desktop\\OnlineMobileStore_17_May\\OnlineMobileStore\\OnlineMobileStore\\Views\\Profile\\AIndex.cshtml",
+              "RelativeToolTip": "OnlineMobileStore\\Views\\Profile\\AIndex.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-16T18:01:48.235Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "AEditProfile.cshtml",
+              "DocumentMoniker": "C:\\Users\\Electronica Care\\Downloads\\Telegram Desktop\\OnlineMobileStore_17_May\\OnlineMobileStore\\OnlineMobileStore\\Views\\Profile\\AEditProfile.cshtml",
+              "RelativeDocumentMoniker": "OnlineMobileStore\\Views\\Profile\\AEditProfile.cshtml",
+              "ToolTip": "C:\\Users\\Electronica Care\\Downloads\\Telegram Desktop\\OnlineMobileStore_17_May\\OnlineMobileStore\\OnlineMobileStore\\Views\\Profile\\AEditProfile.cshtml",
+              "RelativeToolTip": "OnlineMobileStore\\Views\\Profile\\AEditProfile.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-16T18:02:57.304Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Electronica Care\\Downloads\\Telegram Desktop\\OnlineMobileStore_17_May\\OnlineMobileStore\\OnlineMobileStore\\Views\\Order\\Index.cshtml",
+              "RelativeDocumentMoniker": "OnlineMobileStore\\Views\\Order\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Electronica Care\\Downloads\\Telegram Desktop\\OnlineMobileStore_17_May\\OnlineMobileStore\\OnlineMobileStore\\Views\\Order\\Index.cshtml",
+              "RelativeToolTip": "OnlineMobileStore\\Views\\Order\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-15T19:27:07.134Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Electronica Care\\Downloads\\Telegram Desktop\\OnlineMobileStore_17_May\\OnlineMobileStore\\OnlineMobileStore\\Views\\Mobile\\Index.cshtml",
+              "RelativeDocumentMoniker": "OnlineMobileStore\\Views\\Mobile\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Electronica Care\\Downloads\\Telegram Desktop\\OnlineMobileStore_17_May\\OnlineMobileStore\\OnlineMobileStore\\Views\\Mobile\\Index.cshtml",
+              "RelativeToolTip": "OnlineMobileStore\\Views\\Mobile\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-14T23:41:48.786Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Electronica Care\\Downloads\\Telegram Desktop\\OnlineMobileStore_17_May\\OnlineMobileStore\\OnlineMobileStore\\Views\\Mobile\\Edit.cshtml",
+              "RelativeDocumentMoniker": "OnlineMobileStore\\Views\\Mobile\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Electronica Care\\Downloads\\Telegram Desktop\\OnlineMobileStore_17_May\\OnlineMobileStore\\OnlineMobileStore\\Views\\Mobile\\Edit.cshtml",
+              "RelativeToolTip": "OnlineMobileStore\\Views\\Mobile\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-12T19:41:40.778Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Electronica Care\\Downloads\\Telegram Desktop\\OnlineMobileStore_17_May\\OnlineMobileStore\\OnlineMobileStore\\Views\\Mobile\\Details.cshtml",
+              "RelativeDocumentMoniker": "OnlineMobileStore\\Views\\Mobile\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Electronica Care\\Downloads\\Telegram Desktop\\OnlineMobileStore_17_May\\OnlineMobileStore\\OnlineMobileStore\\Views\\Mobile\\Details.cshtml",
+              "RelativeToolTip": "OnlineMobileStore\\Views\\Mobile\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-14T23:41:37.817Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Electronica Care\\Downloads\\Telegram Desktop\\OnlineMobileStore_17_May\\OnlineMobileStore\\OnlineMobileStore\\Views\\Mobile\\Delete.cshtml",
+              "RelativeDocumentMoniker": "OnlineMobileStore\\Views\\Mobile\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Electronica Care\\Downloads\\Telegram Desktop\\OnlineMobileStore_17_May\\OnlineMobileStore\\OnlineMobileStore\\Views\\Mobile\\Delete.cshtml",
+              "RelativeToolTip": "OnlineMobileStore\\Views\\Mobile\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-14T23:41:33.093Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "ProductDetail.cshtml",
+              "DocumentMoniker": "C:\\Users\\Electronica Care\\Downloads\\Telegram Desktop\\OnlineMobileStore_17_May\\OnlineMobileStore\\OnlineMobileStore\\Views\\Home\\ProductDetail.cshtml",
+              "RelativeDocumentMoniker": "OnlineMobileStore\\Views\\Home\\ProductDetail.cshtml",
+              "ToolTip": "C:\\Users\\Electronica Care\\Downloads\\Telegram Desktop\\OnlineMobileStore_17_May\\OnlineMobileStore\\OnlineMobileStore\\Views\\Home\\ProductDetail.cshtml",
+              "RelativeToolTip": "OnlineMobileStore\\Views\\Home\\ProductDetail.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-17T11:34:04.898Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\Electronica Care\\Downloads\\Telegram Desktop\\OnlineMobileStore_17_May\\OnlineMobileStore\\OnlineMobileStore\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "OnlineMobileStore\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\Electronica Care\\Downloads\\Telegram Desktop\\OnlineMobileStore_17_May\\OnlineMobileStore\\OnlineMobileStore\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "OnlineMobileStore\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-02T16:52:44.655Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Electronica Care\\Downloads\\Telegram Desktop\\OnlineMobileStore_17_May\\OnlineMobileStore\\OnlineMobileStore\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "OnlineMobileStore\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Electronica Care\\Downloads\\Telegram Desktop\\OnlineMobileStore_17_May\\OnlineMobileStore\\OnlineMobileStore\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "OnlineMobileStore\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-15T11:25:53.323Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "AccessDenied.cshtml",
+              "DocumentMoniker": "C:\\Users\\Electronica Care\\Downloads\\Telegram Desktop\\OnlineMobileStore_17_May\\OnlineMobileStore\\OnlineMobileStore\\Views\\Home\\AccessDenied.cshtml",
+              "RelativeDocumentMoniker": "OnlineMobileStore\\Views\\Home\\AccessDenied.cshtml",
+              "ToolTip": "C:\\Users\\Electronica Care\\Downloads\\Telegram Desktop\\OnlineMobileStore_17_May\\OnlineMobileStore\\OnlineMobileStore\\Views\\Home\\AccessDenied.cshtml",
+              "RelativeToolTip": "OnlineMobileStore\\Views\\Home\\AccessDenied.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-16T18:57:47.439Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Electronica Care\\Downloads\\Telegram Desktop\\OnlineMobileStore_17_May\\OnlineMobileStore\\OnlineMobileStore\\Views\\Company\\Index.cshtml",
+              "RelativeDocumentMoniker": "OnlineMobileStore\\Views\\Company\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Electronica Care\\Downloads\\Telegram Desktop\\OnlineMobileStore_17_May\\OnlineMobileStore\\OnlineMobileStore\\Views\\Company\\Index.cshtml",
+              "RelativeToolTip": "OnlineMobileStore\\Views\\Company\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-14T23:42:19.839Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Electronica Care\\Downloads\\Telegram Desktop\\OnlineMobileStore_17_May\\OnlineMobileStore\\OnlineMobileStore\\Views\\Company\\Edit.cshtml",
+              "RelativeDocumentMoniker": "OnlineMobileStore\\Views\\Company\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Electronica Care\\Downloads\\Telegram Desktop\\OnlineMobileStore_17_May\\OnlineMobileStore\\OnlineMobileStore\\Views\\Company\\Edit.cshtml",
+              "RelativeToolTip": "OnlineMobileStore\\Views\\Company\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-14T23:42:16.204Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Electronica Care\\Downloads\\Telegram Desktop\\OnlineMobileStore_17_May\\OnlineMobileStore\\OnlineMobileStore\\Views\\Company\\Delete.cshtml",
+              "RelativeDocumentMoniker": "OnlineMobileStore\\Views\\Company\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Electronica Care\\Downloads\\Telegram Desktop\\OnlineMobileStore_17_May\\OnlineMobileStore\\OnlineMobileStore\\Views\\Company\\Delete.cshtml",
+              "RelativeToolTip": "OnlineMobileStore\\Views\\Company\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-14T23:42:08.519Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "Confirmation.cshtml",
+              "DocumentMoniker": "C:\\Users\\Electronica Care\\Downloads\\Telegram Desktop\\OnlineMobileStore_17_May\\OnlineMobileStore\\OnlineMobileStore\\Views\\Cart\\Confirmation.cshtml",
+              "RelativeDocumentMoniker": "OnlineMobileStore\\Views\\Cart\\Confirmation.cshtml",
+              "ToolTip": "C:\\Users\\Electronica Care\\Downloads\\Telegram Desktop\\OnlineMobileStore_17_May\\OnlineMobileStore\\OnlineMobileStore\\Views\\Cart\\Confirmation.cshtml",
+              "RelativeToolTip": "OnlineMobileStore\\Views\\Cart\\Confirmation.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-12T22:41:27.378Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\Electronica Care\\Downloads\\Telegram Desktop\\OnlineMobileStore_17_May\\OnlineMobileStore\\OnlineMobileStore\\Views\\Authentication\\Register.cshtml",
+              "RelativeDocumentMoniker": "OnlineMobileStore\\Views\\Authentication\\Register.cshtml",
+              "ToolTip": "C:\\Users\\Electronica Care\\Downloads\\Telegram Desktop\\OnlineMobileStore_17_May\\OnlineMobileStore\\OnlineMobileStore\\Views\\Authentication\\Register.cshtml",
+              "RelativeToolTip": "OnlineMobileStore\\Views\\Authentication\\Register.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-02T16:09:07.316Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "AdminLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Electronica Care\\Downloads\\Telegram Desktop\\OnlineMobileStore_17_May\\OnlineMobileStore\\OnlineMobileStore\\Views\\Shared\\AdminLayout.cshtml",
+              "RelativeDocumentMoniker": "OnlineMobileStore\\Views\\Shared\\AdminLayout.cshtml",
+              "ToolTip": "C:\\Users\\Electronica Care\\Downloads\\Telegram Desktop\\OnlineMobileStore_17_May\\OnlineMobileStore\\OnlineMobileStore\\Views\\Shared\\AdminLayout.cshtml",
+              "RelativeToolTip": "OnlineMobileStore\\Views\\Shared\\AdminLayout.cshtml",
+              "ViewState": "AQIAAGAAAAAAAAAAAAAAAHUAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-14T23:42:50.426Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Electronica Care\\Downloads\\Telegram Desktop\\OnlineMobileStore_17_May\\OnlineMobileStore\\OnlineMobileStore\\Views\\User\\Delete.cshtml",
+              "RelativeDocumentMoniker": "OnlineMobileStore\\Views\\User\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Electronica Care\\Downloads\\Telegram Desktop\\OnlineMobileStore_17_May\\OnlineMobileStore\\OnlineMobileStore\\Views\\User\\Delete.cshtml",
+              "RelativeToolTip": "OnlineMobileStore\\Views\\User\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-14T23:32:46.335Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Electronica Care\\Downloads\\Telegram Desktop\\OnlineMobileStore_17_May\\OnlineMobileStore\\OnlineMobileStore\\Views\\User\\Index.cshtml",
+              "RelativeDocumentMoniker": "OnlineMobileStore\\Views\\User\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Electronica Care\\Downloads\\Telegram Desktop\\OnlineMobileStore_17_May\\OnlineMobileStore\\OnlineMobileStore\\Views\\User\\Index.cshtml",
+              "RelativeToolTip": "OnlineMobileStore\\Views\\User\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-14T23:29:14.465Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "20240517105751_em.cs",
+              "DocumentMoniker": "C:\\Users\\Electronica Care\\Downloads\\Telegram Desktop\\OnlineMobileStore_17_May\\OnlineMobileStore\\OnlineMobileStore\\Migrations\\20240517105751_em.cs",
+              "RelativeDocumentMoniker": "OnlineMobileStore\\Migrations\\20240517105751_em.cs",
+              "ToolTip": "C:\\Users\\Electronica Care\\Downloads\\Telegram Desktop\\OnlineMobileStore_17_May\\OnlineMobileStore\\OnlineMobileStore\\Migrations\\20240517105751_em.cs",
+              "RelativeToolTip": "OnlineMobileStore\\Migrations\\20240517105751_em.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T10:57:51.787Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Electronica Care\\Downloads\\Telegram Desktop\\OnlineMobileStore_17_May\\OnlineMobileStore\\OnlineMobileStore\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "OnlineMobileStore\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Electronica Care\\Downloads\\Telegram Desktop\\OnlineMobileStore_17_May\\OnlineMobileStore\\OnlineMobileStore\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "OnlineMobileStore\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwBYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T10:18:58.317Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "20240517105015_em2.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\OnlineMobileStore\\OnlineMobileStore\\Migrations\\20240517105015_em2.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\DELL\\Documents\\OnlineMobileStore\\OnlineMobileStore\\Migrations\\20240517105015_em2.cs",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\OnlineMobileStore\\OnlineMobileStore\\Migrations\\20240517105015_em2.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\DELL\\Documents\\OnlineMobileStore\\OnlineMobileStore\\Migrations\\20240517105015_em2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T10:50:15.261Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "20240517104949_em.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\OnlineMobileStore\\OnlineMobileStore\\Migrations\\20240517104949_em.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\DELL\\Documents\\OnlineMobileStore\\OnlineMobileStore\\Migrations\\20240517104949_em.cs",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\OnlineMobileStore\\OnlineMobileStore\\Migrations\\20240517104949_em.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\DELL\\Documents\\OnlineMobileStore\\OnlineMobileStore\\Migrations\\20240517104949_em.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T10:49:49.577Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\Electronica Care\\Downloads\\Telegram Desktop\\OnlineMobileStore_17_May\\OnlineMobileStore\\OnlineMobileStore\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "OnlineMobileStore\\Models\\Order.cs",
+              "ToolTip": "C:\\Users\\Electronica Care\\Downloads\\Telegram Desktop\\OnlineMobileStore_17_May\\OnlineMobileStore\\OnlineMobileStore\\Models\\Order.cs",
+              "RelativeToolTip": "OnlineMobileStore\\Models\\Order.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAgwCcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T14:39:02.888Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "20240517101325_fri.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\OnlineMobileStore\\OnlineMobileStore\\Migrations\\20240517101325_fri.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\DELL\\Documents\\OnlineMobileStore\\OnlineMobileStore\\Migrations\\20240517101325_fri.cs",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\OnlineMobileStore\\OnlineMobileStore\\Migrations\\20240517101325_fri.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\DELL\\Documents\\OnlineMobileStore\\OnlineMobileStore\\Migrations\\20240517101325_fri.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T10:13:25.615Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "AfterLogin.cshtml",
+              "DocumentMoniker": "C:\\Users\\Electronica Care\\Downloads\\Telegram Desktop\\OnlineMobileStore_17_May\\OnlineMobileStore\\OnlineMobileStore\\Views\\Shared\\AfterLogin.cshtml",
+              "RelativeDocumentMoniker": "OnlineMobileStore\\Views\\Shared\\AfterLogin.cshtml",
+              "ToolTip": "C:\\Users\\Electronica Care\\Downloads\\Telegram Desktop\\OnlineMobileStore_17_May\\OnlineMobileStore\\OnlineMobileStore\\Views\\Shared\\AfterLogin.cshtml",
+              "RelativeToolTip": "OnlineMobileStore\\Views\\Shared\\AfterLogin.cshtml",
+              "ViewState": "AQIAAEsAAAAAAAAAAAAAAFkAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-13T09:43:26.284Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "ITempDataSerializer.cs",
+              "DocumentMoniker": "C:\\Users\\Electronica Care\\Downloads\\Telegram Desktop\\OnlineMobileStore_17_May\\OnlineMobileStore\\OnlineMobileStore\\ITempDataSerializer.cs",
+              "RelativeDocumentMoniker": "OnlineMobileStore\\ITempDataSerializer.cs",
+              "ToolTip": "C:\\Users\\Electronica Care\\Downloads\\Telegram Desktop\\OnlineMobileStore_17_May\\OnlineMobileStore\\OnlineMobileStore\\ITempDataSerializer.cs",
+              "RelativeToolTip": "OnlineMobileStore\\ITempDataSerializer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T15:19:56.82Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "JsonTempDataProvider.cs",
+              "DocumentMoniker": "C:\\Users\\Electronica Care\\Downloads\\Telegram Desktop\\OnlineMobileStore_17_May\\OnlineMobileStore\\OnlineMobileStore\\JsonTempDataProvider.cs",
+              "RelativeDocumentMoniker": "OnlineMobileStore\\JsonTempDataProvider.cs",
+              "ToolTip": "C:\\Users\\Electronica Care\\Downloads\\Telegram Desktop\\OnlineMobileStore_17_May\\OnlineMobileStore\\OnlineMobileStore\\JsonTempDataProvider.cs",
+              "RelativeToolTip": "OnlineMobileStore\\JsonTempDataProvider.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T15:19:59.175Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "dbo.User [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/OnlineMobileStore/True/SqlTable/dbo.User.sql",
+              "ToolTip": "dbo.User [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-05-17T12:53:26.383Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "dbo.Order [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/DESKTOP_1PS76VD/OnlineMobileStore/True/SqlTable/dbo.Order.sql",
+              "ToolTip": "dbo.Order [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-05-12T21:09:40.513Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "dbo.User [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/DESKTOP_1PS76VD/OnlineMobileStore/True/SqlTable/dbo.User.sql",
+              "ToolTip": "dbo.User [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-05-13T18:45:47.987Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "dbo.Mobile [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/DESKTOP_1PS76VD/OnlineMobileStore/True/SqlTable/dbo.Mobile.sql",
+              "ToolTip": "dbo.Mobile [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-05-11T13:08:19.658Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "dbo.MobileOrder [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/DESKTOP_1PS76VD/OnlineMobileStore/True/SqlTable/dbo.MobileOrder.sql",
+              "ToolTip": "dbo.MobileOrder [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-05-15T21:03:21.151Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "dbo.Company [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/DESKTOP_1PS76VD/OnlineMobileStore/True/SqlTable/dbo.Company.sql",
+              "ToolTip": "dbo.Company [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-05-12T20:32:52.534Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "dbo.Admin [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/OnlineMobileStore/True/SqlTable/dbo.Admin.sql",
+              "ToolTip": "dbo.Admin [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-05-03T09:05:51.045Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 219,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
